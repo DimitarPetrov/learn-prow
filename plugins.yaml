@@ -1,0 +1,17 @@
+plugins:
+  DimitarPetrov/learn-prow: 
+  - size
+  - welcome
+  - owners-label
+  - wip
+  - cat # /meow
+  - dog # /woof
+  - pony # /pony
+  - yuks # /joke
+  - help # /help
+  - label # /key value, /kind bug, /language zh
+  - skip # /skip
+  - lgtm # /lgtm
+  - assign # /assign @user, /cc @user
+  - approve # /approve
+  - trigger # /trigger
